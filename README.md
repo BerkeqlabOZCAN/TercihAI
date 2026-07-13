@@ -8,11 +8,7 @@ Kodun tamamı bu proje için sıfırdan yazılmıştır. Program verisi, resmi v
 açık YKS tercih kılavuzu API'sinden **kullanıcının kendi makinesinde** çekilir;
 çekim dışında hiçbir dış servise bağlanılmaz.
 
-> **Yasal not:** Bu proje resmi bir kurumla bağlantılı değildir, hiçbir kurum
-> tarafından desteklenmez ve herhangi bir kurumun adını/logosunu kullanmaz.
-> Program verileri kamuya açık kaynaktan **her kullanıcı tarafından ayrı ayrı**
-> indirilir; bu depoda veri dosyası (`veri.json`) paylaşılmaz. Tercih kararlarınız
-> için daima resmi kaynakları esas alın. Yazar hiçbir garanti vermez.
+
 
 ## Kurulum
 
