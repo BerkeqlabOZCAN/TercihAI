@@ -1,0 +1,26 @@
+# İndirilen program verisi — PAYLAŞILMAZ (herkes veri_cek.py ile kendi çeker)
+veri.json
+
+# Resmi kılavuz PDF'leri ve çıkarılan metin — PAYLAŞILMAZ (telif; herkes kendi indirir)
+kilavuzlar/
+kilavuz.json
+
+# Gemini API anahtarı — ASLA PAYLAŞILMAZ
+anahtar.txt
+
+# Yedek dosyalar
+*.yedek
+*.bak
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Editör / işletim sistemi
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

@@ -1,0 +1,9 @@
+# Tercih Robotu çalışma anında hiçbir dış paket gerektirmez — saf Python stdlib.
+#
+# Yapay zeka sohbeti için Foundry Local + bir model gerekir (pip paketi değil):
+#   winget install Microsoft.FoundryLocal
+#   foundry model download qwen3-4b
+#
+# Kılavuz sorularını da yanıtlamak isterseniz (isteğe bağlı), PDF metni çıkarmak
+# için yalnızca 'kilavuz_hazirla.py' bir kez pypdf'e ihtiyaç duyar:
+#   pip install pypdf
